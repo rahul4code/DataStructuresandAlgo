@@ -74,6 +74,34 @@ public class SinglyLinkedList<T> {
         return arr;
     }
 
+    public synchronized void reverse() {
+        if (head != null && length > 1) {
+            ListNode<T> prev = null;
+            ListNode<T> current = this.head;
+            ListNode<T> next = this.head.nextNode;
+            while (next != null) {
+                if (prev == null) {
+                    prev = current;
+                    current = next;
+                    next = current.nextNode;
+                    prev.nextNode = null;
+                    current.nextNode = prev;
+                } else {
+                    prev = current;
+                    current = next;
+                    next = current.nextNode;
+                    current.nextNode = prev;
+
+
+                }
+
+                if (next == null) {
+                    head = current;
+                }
+            }
+        }
+    }
+
     public int getLength() {
         return length;
     }
