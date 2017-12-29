@@ -1,16 +1,17 @@
 
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(äÅÍŒýÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(É–ì¥üÿÿÿÿ
+vsquid:S1192"\Define a constant instead of duplicating this literal "Employee added successfully" 3 times.(É–ì¥üÿÿÿÿ
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(É–ì¥üÿÿÿÿ
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(äÅÍŒýÿÿÿÿ
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(Î±®ëýÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÐ½œ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œºáôýÿÿÿÿ8‰´¹š‰,
 R
-squid:S106"9Replace this use of System.out or System.err by a logger.(šŒÎ·þÿÿÿÿ
-vsquid:S1192"\Define a constant instead of duplicating this literal "Employee added successfully" 3 times.(É–ì¥üÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(É–ì¥üÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÐ½œ8úã¼š‰,
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(É–ì¥üÿÿÿÿ
