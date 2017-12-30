@@ -21,3 +21,15 @@ W
 'src/ds/pr/list/Visitor/VisitorImpl.java,b/6/b6e1be9b0cfbec35499573e7741179fe53fee186
 P
  src/ds/pr/list/Visitor/Impl.java,f/2/f27901631750c04034d0d4fb9c20aa957a911cc2
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+S
+#src/ds/pr/list/Factory/Vehicle.java,9/0/90a2bd13f9c4ab0aff69e019838cd00814b58c2a
+Q
+!src/ds/pr/list/Factory/Imple.java,a/9/a943686d00809c5dd41e963a19d6a52ac5c20f23
+Q
+!src/ds/pr/list/Factory/Truck.java,2/8/28117ddf65e8dc30ed4877a6291dc475b21b6e69
+S
+#src/ds/pr/list/Factory/Factory.java,c/b/cb1a062c60ceed83068cc43bc5054745ce355235
+O
+src/ds/pr/list/Factory/Car.java,4/f/4f9156c87235044e26ab407b9f347a5db4dcae36
